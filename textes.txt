@@ -1,0 +1,705 @@
+If someone says buttons should be orange and green because they test the best, drink
+If your boss asks you to test 41 shades of blue, take a drink
+If your boss asks you to test 41 different +1 buttons, take a drink
+If your boss looks like Steve Jobs, buy a round
+If someone demands the page must have breadcrumbs, take a drink
+If a developer suggests you should learn HTML, CSS, and jQuery, take a drink
+If you have to explain your job to your parents, do three shots of wild turkey
+If someone tells you Flash is 99 percent bad, do a shot
+If your boss says he's an expert because he reads Jakob Nielsen, take a drink
+If your research appears in a Jared Spool report, take a drink
+If your client says it has to be within three clicks, take a drink
+If your client says it has to be baby blue because his mom likes baby blue, take a drink
+If the branding guidelines guarantee an unusable user experience, drink
+If someone writes a cryptic error message understood by nobody, drink
+If you have to use a multiselect widget, finish the bottle
+If a designer doesn't know Jared Spool, Don Norman, Bill Buxton or Alan Cooper, do a shot
+If your developers don't implement a feature because it isn't cool enough, take a drink
+If you're asked about jQuery, CSS or HTML during a job interview, pound a PBR
+If you have to tell someone he isn't the target audience, pound a shot
+If someone calls you a web designer, do a shot and follow with a beer chaser
+If a developer asks you for complete mockups and HTML, do a shot
+If your boss quotes Steve Jobs, drink a Bud Light
+If your boss dresses like Steve Jobs, do a shot
+If your boss was Steve Jobs, everyone should buy you a drink
+If you have nightmares about changing the wireframes for the 20th time, drink a Bud Light
+If a recruiter calls and asks if you can also program, do a shot
+If any discussion about UX begins with checking the resource schedule, do a shot
+If someone says Basecamp has the best UX, break a bottle over their head
+If the features were cut because they took too long to code, drink
+If you're a UX designer and introducing yourself as a "web designer" backfires, drink
+If someone says it has to work on Internet Explorer for Mac, do a shot
+If someone uses fake statistics, drink
+If someone asks you to write a 100 page spec by Monday Morning, do a shot
+If your boss says we don't need to test, do a drink
+If someone says gamification has to be added, do a shot
+If someone says the site sucks without understanding the audience, do a shot
+If your boss asks to go straight to design, do a drink
+If someone calls you to fix the server, do a shot
+If someone can't tell you who the target audience is, do a drink
+If someone tells you the internet is a fad, do a drink
+If you call yourself a UX ninja, rockstar or guru, buy drinks for the house
+If someone says they can get a better design off of 99 Designs, do a drink
+If a designer proudly shows you their meticulous concept sketches, do a shot
+If someone says their business idea is like MySpace but better, do a shot
+If someone asks what a wireframe is, drink a Chimay red
+If your UX expert arrives wearing a black turtleneck, take a drink
+If someone asks for a clean interface but can't explain it, take a shot
+If you're told to design a feature even if the ROI is -20 dollars per user, take a drink
+If someone says it's unintuitive but can't explain what it means, take a shot
+If someone asks you to do wireframes for $100, drink a PBR
+If an UX agency says they're better than a marketing agency, do a shot
+If the client says the site has to work on IE6, take a drink
+If the client says the site has to work on Netscape 4.72, take two drinks
+If someone talks about how the site should work like AOL, do a beer bong
+If someone says Web 2.0 is a requirement, empty the bottle of tequila
+If someone suggests you should use feng shui to design a site, do a shot
+If someone cuts wireframes from the proposal because he doesn't want to pay, do a shot
+If you say to someone, "this will never work" and he still wants to do it, take a drink
+If someone says he started doing wireframes in PowerPoint, take a drink
+If someone says it's like Twitter except people pay, take a drink
+If someone says it's like Facebook for people with no friends, take a drink
+If your team gets upset because you changed the wireframes, do a shot
+If someone pronounces GUI "Gooey," do a shot
+If you see a reset button in a form, finish the bottle
+If your developer implemented a feature without looking at the wireframes, do a shot
+If the UX expert waves their hands around, do a drink
+If you design a feature for a web app, and it is released a year later, do a shot
+If the main navigation is hardcoded on every page, drink
+If someone says, "Screw the users," drink a fifth of vodka
+If you've successfully used UX as a pickup line, order a Macallan 12 on the rocks
+If there's no budget for user research, take a shot
+If a recruiter calls you about a UX role and asks about Java or WCF, drink
+If someone talks about the user as an abstract concept, take a drink
+If you own a UX book signed by the author, buy drinks for everyone
+If your device autocompletes to something really embarrassing, take a shot
+If perfect wireframes are a required deliverable, do a shot
+Every time someone says Jakob, take a drink
+If someone asks you to make the design sexier, take a drink
+If someone talks loudly in the usability test observation room, do a shot
+If you had lunch with Bruce Tognazzini, buy drinks for the house
+If a website logo links to somewhere except the home page, do a shot
+If someone says it's cool because it's fancy and blinking, drink
+If the page reloads every time someone clicks on anything in a checkout process, drink
+If someone asks you to remove bald people from the personas, take a shot
+If someone can't get their head around wireframes, drink
+If you're still researching and someone hands you scribbled page designs, drink
+If someone uses Forrester reports to make design decisions, drink two pints of ale
+If someone insists on having a huge Facebook widget on the home page, drink
+If the website comes out nothing like what you designed, do a shot
+If everyone is impressed when you mention ethnography, have a cognac
+If you have to get consensus from two dozen stakeholders, drink a keg
+If someone says, "It's just common sense," drink
+If someone asks you to design the system architecture, do a shot
+If someone says, "We trust your expert opinion" yet insists it should be pink, drink
+If you spend most of your time producing instead of designing, fill your water bottle with whisky
+If you've met Don Norman, buy drinks for the house
+If someone says that you can't design user experience, drink
+If your user research participant constantly describes how they think others behave, do a shot
+If a UX designer tells you they don't need to do research, drink
+If someone groans when you use the whiteboard, do a shot -- every time
+If someone shows you a Venn diagram other than Peter Morville's, drink
+If someone claims to specialize in more than one field, drink the bottle
+If someone calls bullshit on your design rationale and they're right, buy them a beer
+If you ask a designer what UX is and they say it's just wireframes, drink
+If someone says, "I don't want to do your job for you" and then sketches on the whiteboard, drink
+If someone says they don't want it to be "Web 2.0," drink
+If someone says "Above the fold," smash the bottle over their head
+If someone confuses his opinion with a data-backed assertion, take a shot
+If someone sets content requirements but can't describe the content, drink
+If someone thinks eye tracking would solve everything, do a shot
+If your team thinks Agile means endless changes and no documentation, finish the bottle
+If someone thinks user acceptance testing is usability testing, drink
+If someone wants 20 elements above the fold, take a drink
+If someone asks where the fold is, drink
+If a usability test participant says, "I like user-friendly sites," do a shot
+If usability testing is administered by the marketing team, take a drink
+If you're doing wireframes without requirements, do a shot
+If someone don't care if it works on mobile, drink
+If someone says requirements aren't needed to do wireframes, have a martini
+If someone sends you a job asking for UX, C++ and Social Media, drink
+When there's no way to close the overlay, drink
+If someone says, "From a usability perspective this is the best solution," do a shot
+When the UX decisions are made by group vote, prepare a pitcher of margaritas
+If someone finally asks for data, but says one week is enough time, drink
+If someone cuts your user testing software from the budget again, drink
+If a QR code doesn't lead to mobile-enabled content, drink
+If a developer says it will be ready "next week," take a shot
+When a feature works exactly as designed, buy a round
+If someone has 'reasons' for features they dislike can't be implemented, drink
+If someone says, "Usability doesn't win awards," do a shot
+If someone is designing a system they have never used, do a shot
+If you dress like Steve Jobs, strip naked and do a shot
+If there's no time to question the usability in a meeting, drink
+If someone says we need quick research, do a shot
+If someone asks you to critique a site without knowing the design constraints, drink
+If someone asks to postpone features to next phase, drink
+If the hyperlinks are pink, order a Shirley Temple
+If someone wants a prototype that uses "production ready code," drink
+If someone says they love user centered design, pinch them and drink
+If a developer says he knows more about user experience, do a shot
+If someone asks why an iPad app can't have Flash, drink a pink martini
+When someone wants it in PowerPoint so he can present it himself, do a shot
+If your someone says it should be "more webby," do two shots
+If you have drinks with Dan Saffer, do a shot
+If someone tells you that the target audience is everyone, do a shot
+If someone says something is too hard but doesn't provide solutions, do a shot
+If someone built a feature without talking to anyone, take a shot
+A recruiter asks you to refer someone with an antiquated skill set, drink
+If someone says, "Accessibility isn't a requirement," keep drinking until blind
+If someone says we'll have the developer do the UI, do a shot
+If the checkout button is smaller than a postage stamp, drink
+If the designer refuses to follow the wireframes, do a shot
+When your mobile app passes 100,000 installs, buy a round
+If someone asks you to design a logo with the wireframes, drink a mojito
+if your boss's phone made a funny auto correct on a work text, buy her a drink
+If the visual design is completely different from the wireframes, drink
+If the visual design makes your wireframes better, buy champagne
+If form fields clear when a user submits and there's an error, have a rum punch
+If you know the difference between content strategy and information architecture, drink
+If someone wants all Flash on the landing page, drink
+If someone asks how much user experience adds to the budget, drink
+If someone thinks UX is visual design, drink
+If the project manager has no budget for UX in the proposal, drink
+If someone asks you to include visual design in the wireframes, drink
+If a designer says visual design is more important than user experience, drink
+If "Save" is only at the top of a long page, drink
+If someone says UX is the brand, have a handcrafted artisan cocktail
+If someone says you can just make up the personas, drink two kamikazes
+If someone says the users will figure it out, drink
+if you're scheduled into a 20 person meeting to evaluate the design, drink floor cleaner
+If you've had a project where UX made a difference, drink a mai tai
+If someone asks you to write down all the questions in advance, drink
+If someone insists your form needs a reset button, drink
+If someone wants to put feature bullets on the home page, drink
+If someone asks you to make the button bigger, drink a Mai Tai
+If a user says they aren't very good with computers, buy them a drink
+If you are given conflicting requirements, drink a sea breeze
+If you're a designer creates new features without checking the strategy document, drink
+If a visual designer creates their own wireframes, take a shot
+If someone thinks Facebook "Like" is a social strategy, drink
+If you have to explain Fitts's Law, pound a PBR
+If someone argues incessantly about design process, do a keg stand
+If your usability budget is used to pay for a launch party, bong a six pack
+If your VP of Marketing wants to "gamify" your registration flow, drink
+If someone refers to user experience as "doing usability," drink
+If Will Evans replies to one of your tweets with an obscenity, drink
+If someone says their Business Analyst already has the mockups ready for you, drink
+If the job description requires a bachelors in computer science, drink
+If a recruiter asks how many years of Fireworks experience you have, drink
+If someone asks you to move cross country for a 3 month gig paying $40 per hour, drink
+If you see Jared Spool actually sketching a design, you're drunk
+If someone says it's Dutch according to Google Translate, have a Heineken
+When someone asks for wireframes in PowerPoint, run to the bar
+If the share buttons are only at the top of the page, have a cocktail
+If someone says, "We don't need research, I know what users want," eat the tequila worm
+If someone argues about UX design process, but has no UX portfolio, drink
+If someone says Agile without UX creates more elegant products, do a jello shot
+If someone tells you the red button does better in A/B testing, do a Jagerbomb
+If someone asks to make it blink, do a shot
+If someone ask for changes after a deadline passes,  drink
+If the error messages are in uppercase and red, drink
+If someone has the same UX job title as you and there's no overlap between what you do, drink
+If someone demands personas but won't budget for research, drink
+If someone develops in Quirks Mode because doctypes make validation "difficult," drink
+If users have to read FAQs to understand the service, drink
+If someone says "but all our users are stupid," drink until you drop 20 IQ points
+If someone says we need to 'integrate social media,' drink
+If a developer says they have "installed usability" before, have a shot
+If someone adds a feature to artificially increase a metric, drink
+If someone wants QR codes because they saw it somewhere, drink
+If someone uses the word 'tradigital,' drink
+If someone asks why the prototype isn't working during a usability test, drink
+If someone does the site redesign himself and he's not a designer, drink
+If someone wants the ratio of his logo to the nav bar to be The Golden Mean, drink
+If you use Axure, but the client wants wireframes in PowerPoint, drink
+If you don't get the contract because the developer told the client he's great with UX, drink
+If someone thinks they are a better designer than the designer, drink
+If someone tells you to remove the checkmarks and replace with X's, drink
+If someone asks you to 'make the UX pop,' drink
+If Jared Spool suggests there should be more workshops and less drinking, drink
+If someone says "All you have to do is...," drink
+If that 12 step wizard is not going to get fixed because "it works," gulp the Long Island Ice Tea
+If the client says that the call to action buttons stands out too much, do a shot
+If a designer ignores user feedback, do a shot
+If the CEO asks if we can use the cloud, drink
+If a developer says, "I need complete wireframes before I can code," drink
+If the user story consists of a hyperlink, drink
+When someone wants personas after the first discovery meeting, drink
+If someone wants everything on the top navigation, drink
+If someone asks why the wireframes have no color, do a double shot
+If someone says the UX can't be built because they use Java, drink
+If someone thinks the shopping cart shouldn't have dollar amounts, drink
+If you can't switch the language of a site because it only works for IP detection, drink
+If someone asks for bigger logo, drink
+If the front-end developer moves the button without feedback, drink
+If someone thinks Jared Spool would do a better job than you, drink
+If a front-end developer calls himself an interaction designer, drink
+If someone think the UX team should be under marketing, drink
+If someone takes your UX ideas as their own to present, drink a lot
+If someone wants to build every single feature on the internet into one site, drink
+If someone asks you to copy another site, drink
+If you hear someone pronounce UX as "uuuks," light your drink on fire
+If someone asks you to clear your browser cache, drink
+If the developers spend more time playing Product Managers than writing code, drink
+If someone says UX isn't important because users already know about us, drink
+If someone says to give your design to one of the designers to clean it up, take a shot
+If Beer Friday starts when you're not finished, have a beer
+If someone says our users are different and will read everything, take a double shot
+If someone wants to add images and videos because users don't read, drink
+If you have no records of anyone ever asking the questions in your FAQs, drink
+If someone tells you that most of the website should be above the fold, drink
+If you are asked to rearchitect a SharePoint site, drink the nearest bottle of wine
+If someone is positioning new buttons based on statistical click analysis of the old site, drink
+If someone suggests you do wireframes in Balsamiq so they can change them, drink
+If someone asks, "it's going to look like that?" when you show wireframes, drink
+If someone loves the Comic Sans in Balsamiq so much they want it for the site, drink
+If someone gets wireframes and wants to talk features and functionality, champagne!
+If someone uses curation during a meeting, drink
+If someone uses "frictionless sharing" during a meeting, drink
+If you are asked to put breadcrumbs on a site when they are unnecessary, drink
+If someone describes your role as "they make things look good," drink
+If another designer rips your site's legacy design on Twitter, drink
+If someone says they can't implement UX because it's not Web 2.0, drink
+If someone says "Don't worry, we'll just put help text next to it," drink
+If someone says "We can add that to the preferences," drink
+If someone says "low hanging fruit," go to the pub for a long pint
+Every time someone says "gamification," drink
+If someone criticizes your wireframes because they aren't in color, do a shot
+If someone asks about "Lorem ipsum," drink
+If someone clicks on a mockup and asks why is it not working, drink
+If someone says, "We cannot have four boxes there because its bad luck," drink
+If your boss says, "We don't believe in Quality Assurance," do a shot
+If your behavioral research is rejected because it lacks statistical significance, drink
+If the developers refuse to push the code fixing all bugs before a demo, drink
+If the opt-in must be pre-checked, drink and eat the glass
+If someone asks to include an opt-out, drink 5 tequilas, eat the worm and the glass
+If someone asks what value user research adds, drink
+If someone asks whether your design decisions are confusing to the user, do a shot
+If a designer uses the word cool to describe the value of the work, drink
+If a recruiter asks you if you are a UX Business Analyst, take a shot
+If they ask you to check your UX documents into Rational ClearCase, take 2 shots
+If someone says it's what the users told us they wanted, drink
+If your boss says there's no time for research, empty a bottle
+Your someone says it needs more red, do a shot
+If someone says it has to be "intuitive" without knowing who the user is, drink
+If someone says the grey used in your wireframes is too dark, bust out the vodka
+If someone references apple.com site over and over, take a two shots
+If someone says users don't scroll, drink a Long Island
+If someone says all the links should just say, "read more..." drink
+If someone says, "Blind people aren't in our target audience," drink
+If someone asks you to write business requirements, drink
+If a metric is "collect email address for spamming," drink
+If the QA team is asking for test requirments before the first sprint is done, drink
+If someone rejects a feature because they can't code it, down the bottle
+If your designer is the only tattooed, pierced weirdo in the office, buy him a drink
+If someone thinks localization is supporting double byte character sets, drink
+If someone says "Web 2.0," drink
+If someone says "this how they did it in Gmail," take a dive into a tequila bottle
+If the engineering manager told you that his engineers can implement the UX, drink
+If your answer to everything is "If I tell you, my job wouldn't be important," buy everyone a drink
+If someone wants a gamification badge photo sharing mobile app, drink
+If your UX strategy for generating revenue is "that's the client's problem," stop drinking
+If a designer uses "ubiquitous" and "synergy" to explain UX, drink
+If the Product Manager blames you for not clearly defining the requirements, drink
+If the UX designer is fired because "UX is a waste of money," drink
+If someone claims to be a UX designer because they design Flash websites, drink
+If the client wants unfriendly interface because it's the industry standard, drink
+If someone says your sketchy-style wireframes are ugly, drink
+If someone says the are an UX expert because they designed an infographic, drink
+If someone asks "If Jakob Nielsen knows so much about usability, why is his site so ugly?" drink
+If paper prototyping comes after QA, do a shot
+If the someone insists on having a splash screen, drink
+If someone asks you to "pretty it up," take a shot
+If a Product Manager says they do usability, take a double shot
+If someone wants to push it live at 5 p.m. on Friday, do 5 shots
+If the developers didn't implement it because it wasn't in wireframes, drink
+If the user can't find the submit button, drink
+If someone says they designed video games and didn't need UX, drink
+If someone wants you to pair program with him, drink
+If someone tells you they're going forward with the redesign and skipping research, drink
+Every time Louis Rosenfeld says, "it depends," drink
+If you have backend developers applying CSS, drink
+If the prototype will be ready in time for testing, drink
+If someone says to give participants tasks and ask them to think aloud, drink
+If someone asks you to put it through "userability," slam a shot
+If someone says to use an icon, even if it's not intuitive, drink
+If scope was cut to meet an arbitrary deadline, drink
+If the management team believes the user deserves an experience, drink
+If your designers rock out to Sapient's "Idea Engineer," pound a Kingfisher
+If someone always sends screenshots in a Microsoft Word file, drink
+If the offshore developers are making UX decisions, drink
+If someone says your design isn't spunky enough, take three shots.
+If someone argues "build, launch, learn" is good product design, body shot a pickleback
+If you have to NASCAR the interface with social sharing icons, drink
+If your designer asks, "What's the fold," drink
+If the SOW is signed after the first phase participants are recruited, knock back a bourbon
+If someone demands modeling the site on Amazon, slug a shot
+If the client pays for personas but expects market segments, knock back a stein
+If someone says the developers can just color in your wireframes, drink
+If someone refers to web design as 'doing digital,' drink
+If someone describes usability as fonts and colors, pour a shot in a glass and drink the bottle
+If feedback returns an error page, pour petrol over yourself and light a match
+If someone can't explain the language used in the project goals, drink
+If someone implemented a feature without reading the wireframes, drink
+If someone thinks UAT is usability testing, drink
+If someone says you don't need any form validation, take a drink
+If someone says make it like Flipboard, drink
+If users have to read the manual to upgrade, drink
+If someone doesn't like the color of your design while they're wearing it, drink
+If someone says you don't need a portfolio to get a UX designer job, drink
+If someone says, "Our research indicates..." without sharing the research, drink
+If someone asks for the KPI of a web page, drink his beer
+If someone wants to talk about "learnings," drink
+If someone says it's easy to use because it's on Windows, drink
+If they use the prototype for a marketing tour, drink
+If someone says "value proposition," drink
+If user stories are thought up without interviewing users, drink
+If someone says the team doesn't need UX because he's discovered Balsamiq, drink
+If someone requires you to do wireframes in Balsamiq, drink until pickled
+if someone wants logos in the wireframes, drink two irish coffees
+If you're doing the wireframes and the content strategy, buy yourself a drink
+If the wireframes will be shipped to offshore developers, drink
+If you have to explain why to use Fireworks instead of Photoshop, drink
+If someone's first email is links to ideas for the project, drink
+If you design features that would appeal to only you, go face down in the punch bowl
+If someone asks you to make wireframes in color, drink lemonade and buy glitter
+If someone says they cannot implement your UX in SharePoint, drink
+If the form times out when you are thinking of a complex required password, drink
+If someone asks you to change something because it's easier for developers, drink
+If someone says users will read the manual, drink
+If developers build features that users say they don't need, drink
+If someone tells you to make it responsive, drink
+If you see a "click here" on a website, drink
+If the bootstrapping startup wants an offshore engineering team, drink
+If someone wants you to "make it like a game," drink
+If you're at the UX Speakeasy Conference in San Diego, drink
+If the RFP leaves out user experience but includes visual design, drink
+If the site says "expired" when you're still searching, drink
+When someone asks for four-color proofs of a web page, join AA
+If someone wants to put a 600 word menu on the page, drink
+If someone references Apple, drink
+If someone says something is easy, but can't actually do it themselves, drink
+If someone says it can be done with CSS, but can't actually produce CSS, drink Absinthe
+When someone asks if we can just re-use another client's personas, drink
+If you look at the brief for the project after it's been completed, drink
+If someone says your site sucks but doesn't explain why, do a shot
+If you go through five iterations and end up at the original design, drink
+If you have to agree to A/B test a bad idea just to stop arguing about it, drink
+If someone thinks a wireframe is a finished design, drink
+If someone submits your wireframes without providing any context, drink
+If someone says "The wireframes are too grey. Is there something we can do about that?" drink
+if someone will only build the new UX using components from the current UX, drink
+If someone's husband doesn't like rounded corners, drink
+If someone says that there will be less to sell if tasks are too simplified, drink
+If you're at Interaction12 in Dublin, Ireland, drink
+If someone asks why you need to set goals, drink. If your team asks, drink twice.
+If someone asks why we need wireframes when the mockups are already done, drink
+When someone hires you and then wants to design it themselves, drink
+If the designer insists on unlabelled icons, drink
+If the UX improvements are "post launch," drink
+If a stakeholder says that they love your wireframe but they're too gray, take a shot.
+If someone wants a certain color for an already approved design, just drink
+When a developer says they need perfect wireframes to write front end code, drink
+If someone doesn't ask you to social buttons sharing to the website, start getting sober
+If someone asks you if you can do an Excel macro, drink
+If someone re-designs your wireframes because they doesn't fit the brand standards, drink
+If the team eschews UX because the project is just a proof of concept, drink
+If the agency is supposed to deliver segments but they come back with personas, drink
+If the UX Style Guide describes only branding standards, drink
+If you see a job ad for an UX Developer with .NET experience, drown it in vodka
+If someone asks what Section 508 is, drink
+If someone thinks they know users better than you do after months of research, drink
+If the brief says it must be "simple and clear, but have over 200 features," drink
+If someone says they don't give a damn about Apple's Human Interface Guidelines, do a shot
+If a user story starts with "As a person, I can ...," drink
+When you can't design for fear of "setting expectations," drink
+If you're the only person in the organization who understands strategic thinking, drink
+If your research and evidence-based design lose against management's whims, drink
+If someone asks you to make it mobile, drink
+When your organization forbids sticking anything up on walls, drink
+If someone doesn't give a damn about Android devices, drink
+If someone has no questions regarding the new prototype you just sent, drink
+If someone asks if the site will be tested with real users, have an open bar!
+When a creative director says UX is a myth, drink
+If they hire you as the UX expert but don't follow recommendations, drink
+If someone says the project is so important that we aren't following process, drink
+If the UX team is told to consider branding over usability, drink
+If someone quotes Susan Greenfield, drink to oblivion
+If the developers hire a UX person but won't change their workflow, drink
+If someone says carousel, drink
+If someone name drops Eric Reiss, drink
+If someone asks the UX researcher to do the wireframes, drink
+If someone interchanges UI and UX in a sentence, drink
+If a text field to enter email address in a form starts with upper case, drink
+If someone says they will do the wireframes because they have a Mac, drink
+If someone asks if SEO is turned on, run to the nearest bar
+If someone says captcha in all our forms, drink
+If the designer does opposite of your UX recommendation, drink from the bottle
+If someone thinks good UX means we "just do what Google does," do 5 shots
+If the engineers think good UX means their code complies with accessibility standards, drink
+Every time your developer tells you how Ethan Marcotte would design it, do a shot
+If your manager is playing the UX Drinking Game, drink
+If someone talks about user mental models as the "things people do," bottoms up
+If someone submits your napkin sketch to the developer as the requirements, drink
+If the features and release date are set before research, drink
+If someone says the wireframes don't have enough branding, pour whiskey in their eyes
+If your Product Managers ask you to write requirements, pour a tall scotch
+If the creative brief contains the words "delight the user," do a shot
+If someone instructs you to make it easy to use, drink
+If someone thinks fun is a strategic direction, drink
+If the UX Drinking Game results in too much drinking, take four shots
+If someone rejects the prototype because the code is buggy, spit your drink
+If someone one says, "I don't believe in user research," drink
+If someone suggests to imitate Microsoft's Office UI, get drunk
+If your only personae is John King from CNN, buy a round
+If you have to do the wireframes after the design is complete, drink
+If someone instructs you to put every button on the right, drink
+When someone says don't worry about the UI, it's Web 2.0, eat the worm
+If you can code, but can't do information architecture, go into rehab
+When someone asks you for case studies proving the validity of user research, drink
+If someone says we should leverage the existing templates from another project, drink
+If someone wants the next UX to put a dent in the universe, drink
+If you see the default language of a webpage in India set to Hindi, drink
+If someone wants social media share buttons only at the top of the page, drink
+If your first impulse is to sketch it on a whiteboard, drink
+If someone asks you for personas based on only quantitative research, drink
+If your designer who doesn't know Photoshop, drink
+If your developer knows Photoshop better than your designer, drink
+If the client asks if the website will be in English instead of lorem ipsum, drink
+If your stakeholder says every single user is in your target segment, drink
+If someone says make the experience "fun" and "engaging," drink
+If someone asks if they can censor user speech, drink
+If during your career, your title has changed from UI to IA to UX to ID to IA, drink
+If you've searched job listings using the keyword "wireframe," drink a lot
+If your engineer says it can't be changed anymore because he started coding yesterday, drink
+If you thought becoming a lawyer would be better than being a UX designer, shoot yourself
+If any discussion about UX begins with "Let's get marketing," do a 2 shots
+If the site is gorgeous yet absolutely unusable by any audience, drink
+If someone builds a photo app because Instagram was bought for $1 billion, drink
+If you build a photo application that is bought for $1 billion, buy the next round
+If someone says "Make it just like TurboTax", order a double martini
+If your designer prefers Fireworks to Photoshop, drink
+When someone says "Make the experience immersive," drink
+If recruited users say they have got 20 minutes for your interview, drink
+If the product is ready to ship, and then they come to the UX team for a "review," empty the bar
+When someone equates "user-centered design" with a GUI, head to happy hour
+If someone wants to skip wireframes and go straight to mockups done in Photoshop, drink
+If you refer to yourself as a pundit, rockstar, ninja or evangelist, drink
+If someone suggests giving the close box the same functionality as the OK button, do a shot
+If someone calls themselves a Pinterest expert, drink
+If someone thinks wireframes drive the requirements, drink
+If someone claims they can make the argument that a laptop is a mobile device, drink
+If someone says "we'll write the copy later, it's just words," take a shot
+If the developer says, "UX? Why? I can lay out a screen," do a shot
+If someone says everything must be red because that's our brand color, drink up
+If a recruiter asks if you have 5 years experience with Adobe CS6 do a shot
+Your brother-in-law asks if you are still into computers and can you fix his AOL, drink
+Developers balk at your streamlined design because it means fewer features to sell take a shot
+If someone says about your UX strategy "We don't want to overthink this," inhale
+If someone says your UX is as good as Facebook, down a bottle
+If someone complains to you about the Microsoft ribbon menu, take a proxy shot
+If someone says you should use a new PPT template to emulate Apple's brand success, drink
+When someone tells you you're only designing responsively "to be cool," drink
+Every time your developer tells you something is impossible, do a shot
+If there's no content, do shots until it gets there
+When someone says everything has to be solved in a generic way, have a brandy
+If someone asks for the Pantone number of the green button, do a shot of absinthe
+If everything is red to follow the branding guidelines, take a shot
+If the project that requires user research data has no research data, drink
+If there isn't time to test something redesigned at the last minute, drink
+If says it's like Facebook for Twitter, drink
+If someone says their idea will be worth as much as Facebook, drink
+If someone thinks they are the next Mark Zuckerberg, drink
+If your boss dresses like Mark Zuckerberg, drink
+If your boss is Mark Zuckerberg, he should buy the bar
+If someone says responsive and doesn't know what it is, drink
+If your solution to a problem gets rejected because it isn't SharePoint, do a shot
+If you have to explain clicking twice on a link isn't acceptable, drink
+If annotated wireframes aren't enough for co-workers sitting 10 feet away, drink
+If changes to uncoded features are rejected because the use case needs to be revised, drink
+If someone says they will never read the strategy recommendation report, drink
+If responsive and social are used in the same sentence, drink
+If you're on vacation in two days and someone doubles scope, start vacation early and drink
+When UPA changes to UXPA, so a shot of tequila and watch the debates ensue
+If someone sends a screenshot embedded in a Word document, drink
+If the job ad asks for someone who does "Y Frames," drink
+If they're looking for a "UI/UX designer," drink
+If your friends think you draw cartoons for a living, take a shot
+If someone asks you to make the fake names in your wireframes more ethnically diverse, do two shots
+If you are the only one who knows what UX means, finish the bottle
+When the client says the briefing is to have the iPhone of their business, drink
+If someone design doesn't look sexy, tell them to keep drinking until it does
+If the client thinks wireframes are made of wire, drink a bottle of absinthe
+If you must scope down until your design is a skinned version of the old one, drain the bottle
+If a job description says they are looking for a "ninja", "jedi", or "rockstar," drink
+If someone finds it strange that you don't design on a Mac, drink
+If you get the feeling you would do a better job on the front-end than the developers, drink
+If branding means using a company PowerPoint template, drink
+If someone says, that the User Interface isn't sexy enough, drink
+If your someone says, "The design is done, now let's get to the real work," drink
+If you have to sneak around to do the right thing, have a drink, but quietly
+If the account team says they have been creating wireframes, liquor up!
+If the Chief Creative Officer or Chief Strategy Officer thinks they should own UX, drink
+If someone requests "bespoke" UX, drink a Pimm's Cup
+If someone asks you to test 50 shades of grey, take a shot and go directly to HR
+If a stakeholder tells you the current design "doesn't feel good," chug the bottle
+Every time someone wants a feature because they "like it," drink
+If someone asks you to be creative, drink
+If someone asks why a feature is included after approving it the day before, drink
+If someone wants the UI blue because Facebook is blue, drink
+If someone has a spouse who just has a little feedback to give, drink a beer
+Throw back 2 shots each time a team member says the "design should ladder up"
+If the error messages make the user feel she did something wrong, drink
+If a job candidate's resume states he's an Interactive Designer, get him drunk
+If a non-designer starts giving design direction, drink
+If someone wants to add social icons next to every link on the page, drink then make them drink
+If your developers can't work off Photoshop comps and ask for pixel-by-pixel specifications, drink
+If someone starts their feedback with "Can't we just," drink
+Everytime you hear "surprise and delight users," drink
+When "User Experience" is used by someone who doesn't understand it, drink
+When people refer to Lorem Ipsum as "Greek," drink
+If your co-worker muses over theoretical aspects of UX rather than working, drink
+If someone dings your wireframes because the copy isn't correct, drink
+If you return from vacation to find your UI totally redesigned, drink a Mai Tai
+If someone wants to design a selection tool using nothing but sliders, do a jello shot
+If the developers reject your UX prototype because its buggy, drink one for me too
+If someone wants the page to display all the database records, drink
+If someone says user generated content can be used for a drinking game, drink
+If someone says fidelity when they mean resolution and vice versa, drink a shot of Mad Dog
+If someone doesn't know the difference between content strategy and copywriting, drink
+If a developer requests an updated comp for a new paragraph of copy, drink
+If you're pasting UX Drinking Game items into an email to explain what went wrong, drink
+When someone asks you to "cuten" it up, drink
+If someone says, "it looks great but let's get a committee together to go over it," drink
+If someone says that UX equals Usability, get drunk
+If your boss tell you to create UI examples in one hour, buy some Jack Daniels
+If someone quotes Steve Jobs, take two shots
+If the Account Manager is doing wireframes, drink.
+If the website design has more than three different font families, take a shot and breath
+If someone tells you to think out of the box, buy some Jack Daniels
+If someone says the users will have to learn it, drink a lot
+If you are surrounded by Account Managers that call themselves UX experts, get drunk
+If you see an error message that says "error," get wasted
+If someone ask you to make a clean design, do a Mojito
+If your designer says, "Put the error messages somewhere," take a shot
+If someone ask you an HTML5 website with Flash, drink vodka
+If your submit button is the Enter key, finish the bottle
+If someone tells you to code the UX, drink 2 mojitos
+If someone talks about clean design without knowing shit about design, drink
+If all the Product Managers want the first location on the menu, drink the booze trolley
+If a graphic designer has more say over the user experience than you do, drink
+If someone says they can't improve the UX because it's a new feature, drink
+If you design "Mobile first" without requirements, binge drink all night
+If there's budget for 12 Developers but not a UX Designer, drink
+If you have to A/B test the entire alphabet, do 26 shots
+If all reviews are written by the product owners, drinkup
+If the product recommendations by users get in before there are users, ask for a drink
+If someone says pagination is too hard to code, order a bloody mary
+When things will be "fixed up" in the next release, drink
+If the strategy is more important than the user, buy a round
+If someone is discussing SEO possibilities on password protected pages, bang shots
+When "Home Page" is a single user story, drink
+If a developer suggests anything, drink
+For every banner above the fold, do a shot
+When you have to to quit drinking to the game because it harms the company reputation, drink
+If you have to give advice about how to validate form fields with programming tips, drink
+When your boss knows what's better for the user, drink
+When there is more talk about visual design than user experience, slam shots
+When you get a new job from posting to the UX Drinking Game, buy the next round
+Drink a fifth of vodka for every textfield on the sign up page
+For every required star on a form, do a shot
+If the developers won't start until the wireframes are done and don't read them, drink
+If a developer steps into your office because he needs a "design solution now," drink
+If you see a final design with Lorem Ipsum and Image placeholders as content, drink
+If someone says there is a need to "establish the proper cadence for communication," drink
+When you show wireframes and someone says "So, you actually don't do anything," do a shot
+Drink if usability issues are dismissed with "our users are smart," drink
+If you go to UX Week for anything other than drinking, drink
+If someone doesn't stop making drink jokes about user experience, drink
+If someone wants to take UI at the design research phase of the project, drink
+If someone wants to print the interactive prototype, add "Pint" button instead
+If someone asks for a "best in class" solution, take out your best drinking glass
+If a designer asks they need to know how write code, drink a beer with a developer
+If your Product Manager designs full mockups but doesn't know what a grid is, buy a bottle
+If you design amazing features, but no one markets them properly, drown in a bottle of scotch
+If they want to introduce you to their "Webmaster," run to the nearest bar
+If you end up cleaning up the mess left by the previous designer, drink
+If someone asks for an all Flash website, drink
+If someone thinks gathering feedback from everyone isn't design by committee, take a shot
+If your website has more than three design iterations on display, take 2 shots
+If your "UX Brief" is a scribbled post-it note, have a beer
+If what was designed and tested was completely redesigned before launch, do a keg stand
+If someone offers you equity to "make the application look pretty," drink
+If you tell a test subject, "Ignore the words, they're not finalized yet," drink
+If someone says "We've covered UX by doing the use cases," drink
+If someone doesn't like you using Sharpies because they smell, drink
+If someone wants your wireframe to "pop more," drink a White Russian
+If a feature design is dismissed because "the users are stupid," do a shot
+If someone tells you to make the interface letter-sized paper, drink twice
+If the Back button is right of the Continue button suck a lemon, shoot tequila and lick salt
+If someone asks you to put the real banners in the wireframe, get wasted
+If someone that keeps staring at you through the two way mirror during testing, drink
+If someone edits HTML in Word, drink
+If someone says, "In terms of usability," drink 2 mojitos
+If the designer says "let's just use Twitter Bootstrap," drink
+If a designer has to work their magic within an unscrollable iframe, drink
+If someone says "Mobile first," drink
+If someone talks about having "persona profiles," drink a double whisky
+If a crude instant message appears during the user testing session, down an Old Fashioned
+If the designer has no idea what the web strategy is, go out for karaoke
+If you go to SXSW and drink with your boss, buy a round
+If usability findings are pared down to a bulleted list with no context, drink a Moscow Mule
+If the designer says his wireframes are to exact dimensions, drink
+If the checkbox is designed to be the size of a grapefruit, drink
+If the designer busts out a 10-circle UX Venn Diagram, drink
+If the user story says "make it responsive," empty the bottle
+If someone says you need iOS experience for the job, empty the bottle
+If everyone talks usability but ignores the UX staff, drink
+If someone tells you the layout will be designed in Illustrator, drink like hell
+If someone says it's like Twitter for Twitter, drink from a Klein bottle
+When clients visit for a design meeting and you're not included, drink
+If your client thinks your mockup is the finished product, drink
+If someone suggests using the mouse hover state, take a shot
+When someone wants you to design for who they think their users are, drink
+If you drink too much as a result of the UX Drinking Game, get a new job
+If the instructions require instructions, someone is already drunk
+If the instructions to the instructions require more instructions, you must be drunk
+If you bought melamine just so you could make cheap whiteboards, drink
+If you carry a whiteboard and dry erase marker with you everywhere you go, drink
+If your developers want to recreate advanced search within a modal window, drink
+If the only person having any doubts about what the user needs is the designer, drink
+If someone uses the word "steroids" while describing the UI, take one (with a beer)
+If you dislike how "Next" changes position for each quote on this site, drink
+If your boss hires an UX instructor to rant about colors, fonts, and Comic Sans, drink
+If the UX manager has zero design knowledge, drink until you cry
+If your boss hires a UX guru who rants about comic sans, drink -- heavily
+If a visual designer says they don't need wireframes, drink scotch neat
+If the developers design the site using tables, go on a binge
+If your benchmark reference is Google, drink
+If the developer asks you to beautify the page, drink a whole bottle
+If you accidentally click "Funny" when you think it isn't, drink
+If you're designing a site with Lorem Ipsum, drink
+If the logo is so low contrast that you didn't notice it until just now, drink
+If someone suggests common design patterns shouldn't be used because that's not "innovative," drink
+If someone says, "Let's see how Amazon does it," drink
+When no one can't agree on the project scope, down the bottle
+If the goal is to make it look exactly like something in print, drink
+If someone wants to change a navigation element's color so it stands out more, drink
+If you retroactively fit the wireframes to the design comps, order a Zombie
+If someone calls the UX "world class," drink
+Every time you read, "As a user I want to..." in scrum team's user stories, take a shot
+If someone thinks the wireframes are the final design and they like it, do shots
+If the designer forgets most users use Windows, beer bong him
+If you've received an email with the words "make this look pretty," drink
+If someone sneers, "All I hear about from you is users, users, users", have a rum
+If someone wants to know how many wireframes before the requirements are done, drink
+If someone asks you to "minimize the total number of clicks," drink
+If someone calls you a Unicorn, swap their DQ Blizzard with a boozy Oreo milkshake
+If the users are "nerds" and therefore "know how to use everything," get a scotch
+If there's a popup window that calls another popup window, drink
+If someone tells you to add a border so it doesnt "float," drink
+If Angel Anderson table dances at the IXDA, drink
+When the UX Drinking Game becomes a company standard, buy a round
+If the consultant says the same thing and they listen to him, drink
+If someone says, "Can't we design it like the Harlem Shake," drink
